@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="gaza_text">Gaza City</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="UNI">Universities</string>
+    <string name="CiT">Cities</string>
+    <string name="events">Events</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="islamicUni">Islamic Uni. of Gaza</string>
+    <string name="IslamicDisc">The Islamic University of Gaza, also known as IUG and IU Gaza, is an independent Palestinian university established in 1978 in Gaza City.</string>
+    <string name="AlAzhaName">Al-Azhar University</string>
+    <string name="AlAzharDisc"> often abbreviated AUG, is a Palestinian, public, non-profit and independent higher education institution. During the first intifada, the Palestinian Leader Yasser Arafat issued a decree in September 1991 to establish a Palestinian national university</string>
+    <string name="alaqsaName">AlAqsa University</string>
+    <string name="alaqsaDisc">Al-Aqsa University is a Palestinian university established in 1955 in the Gaza Strip, Palestine. Established in 1955 as the first higher education institution, Alaqsa University is the oldest governmental higher education institution.</string>
+    <string name="alqudsName">Al-Quds Open University</string>
+    <string name="alqudsDisc">Al-Quds Open University is an independent public university. It was established in Amman, Jordan, by a decree issued by the Palestinian Liberation Organization and started operating in Palestine in 1991. QOU is the first Open Learning institute in the Palestinian territories</string>
+    <string name="rafah">Rafah</string>
+    <string name="rafahDisc">Rafah is a Palestinian city in the southern Gaza Strip. It is the district capital of the Rafah Governorate, located 30 kilometers (19 mi) south of Gaza City. Rafah\'s population of 152,950 (2014) is overwhelmingly made up of former Palestinian refugees.</string>
+    <string name="khanyunisName">Khan Yunis</string>
+    <string name="khanyunisDisc">"Khan Yunis is a city in the southern Gaza Strip. According to the Palestinian Central Bureau of Statistics, Khan Yunis had a population of 142,637 in 2007 and 202,000 in 2010 and 350,000 in 2012. "</string>
+    <string name="JabaliaName">Jabalia</string>
+    <string name="JabaliaDisc">"Jabalia also Jabalya Palestinian city located 4 kilometers north of Gaza City. It is under the jurisdiction of the North Gaza Governorate, in the Gaza Strip. "</string>
+    <string name="deiralbalahName">Deiralbalah</string>
+    <string name="deiralbalahDisc">" Deir al Balah is a Palestinian city in the central Gaza Strip and the administrative capital of the Deir el-Balah Governorate. It is located over 14 kilometers (8.7 mi) south of Gaza City."</string>
+    <string name="wara">Gaza War (2008–2009)</string>
+    <string name="waraDisc">The Gaza War, also known as Operation Cast Lead known in the Muslim world as the Gaza Massacre,was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces.</string>
+    <string name="warb">Gaza War 2012</string>
+    <string name="warbDisc">In November 2012, the Israel Defense Forces launched Operation Pillar of Defense  which was an eight-day campaign in the Hamas-governed Gaza Strip, which began on 14 November 2012.</string>
+    <string name="warc">Gaza War 2014</string>
+    <string name="warcDisc">The 2014 Gaza War, also known as Operation Protective Edge  was a military operation launched by Israel on 8 July 2014 in the  Gaza Strip.</string>
+    <string name="ward">Gaza War 2021</string>
+    <string name="wardDisc">An outbreak of violence in the ongoing Israeli–Palestinian conflict commenced on 10 May 2021,  on 6 May, when Palestinians began protests in East Jerusalem over an anticipated decision of the Supreme Court of Israel on the eviction of six Palestinian families in Sheikh Jarrah.</string>
+    <string name="chouseName">C HOUSE GAZA</string>
+    <string name="chousedisc">Address: Jamal Abdul Nasser street، Gaza Strip Hours: Closes soon ⋅ 12AM ⋅ Opens 8AM Sunweeks ago</string>
+    <string name="brekName">Break Restaurant</string>
+    <string name="brekdisc"><![CDATA[Unassuming option whipping up breakfast bites, sandwiches & burgers, plus outdoor seating. Service options: Dine-in · Takeaway · No-contact delivery]]></string>
+    <string name="tabonName">Al Taboon Pizza</string>
+    <string name="tabondisc">"Service options: Dine-in · Takeaway · No-contact delivery Address: Omar Mukhtar St Hours:  Closed ⋅ Opens 9:30AM Sun "</string>
+    <string name="snounuName">Snounu Restaurant</string>
+    <string name="snounudisc">Service options: Dine-in · Drive-through · No-contact delivery Hours:  Open 24 hours Health and safety: Mask required · Temperature check required · Staff wear masks · Staff get temperature checks ·</string>
+</resources>
